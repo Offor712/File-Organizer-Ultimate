@@ -4,6 +4,8 @@ File Organizer Ultimate is a simple yet powerful desktop application for Windows
 
 ---
 
+![App Screenshot](screenshot.png)
+
 ## Features
 
 -   **Interactive Preview:** See exactly how your files will be organized before committing to any changes.
